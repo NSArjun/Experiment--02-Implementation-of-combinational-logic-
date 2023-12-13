@@ -32,7 +32,7 @@ inputs are high. A plus (+) is used to show the OR operation. Y= A+B
 ## Program:
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: ARJUN N S
-RegisterNumber: 23013905
+RegisterNumber:212223230020
 ## CODE:
 
 ### F1 :
